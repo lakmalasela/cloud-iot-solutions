@@ -25,6 +25,8 @@ Quick start
    ```
    npm run test
    ```
+   <img width="1917" height="961" alt="image" src="https://github.com/user-attachments/assets/b85dc9d2-638e-4554-847b-0bf1f09c1809" />
+
 
 AI usage notes
 - Used AI to scaffold the NestJS controller/service structure and suggest tests.
